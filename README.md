@@ -19,9 +19,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/karmalexz](https://github.com/karmalexz)
 
-- 📫 How to reach me **alexzhang.tech**
+- 📫 How to reach me **https://alexzhang.tech**
 
-- 📄 Know about my experiences [alexzhang.tech](alexzhang.tech)
+- 📄 Know about my experiences [alexzhang.tech](https://alexzhang.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
